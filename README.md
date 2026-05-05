@@ -1,2 +1,3 @@
 # hotelmenu-System
-first repository
+first repository<br>
+<p>creating hotel menu system project with python</p>
